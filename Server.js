@@ -7,7 +7,7 @@
  * @Description Data exchange format
  */
 
-let Kat = require('../kat/Kat');
+let Kat = require('./Kat');
 let Crash = require('./crash/Crash');
 const Parser = require("./Parser");
 
