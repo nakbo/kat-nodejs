@@ -4,7 +4,7 @@
  * @Studio 南博网络科技工作室
  * @GitHub https://github.com/krait-team/kat-php
  * @Version 1.0.0
- * @Description Data exchange format
+ * @Description Remote Procedure Call
  */
 
 let Kat = require('./Kat');
